@@ -1,2 +1,2 @@
 #mysql
-mysql:8.0.34
+--platform=arm64 mysql:8.0.34
