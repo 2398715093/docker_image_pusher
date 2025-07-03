@@ -1,2 +1,2 @@
 #mysql
-mysql8.0.31
+mysql
